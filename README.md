@@ -4,3 +4,4 @@
 - [2. Basic COmmand line of Git Khmer](gitCommandLineLessonKhmer.md)
 - [3. Procedure Definition](procedure.md)
 - [4. Trigger definition](trigger1.md)
+- [5. Explain sql statement with trigger](sqltrigger.md)
